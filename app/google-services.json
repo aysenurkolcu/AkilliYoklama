@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1003203081229",
+    "firebase_url": "https://akilli-yoklama.firebaseio.com",
+    "project_id": "akilli-yoklama",
+    "storage_bucket": "akilli-yoklama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003203081229:android:0205761ecb451635f95144",
+        "android_client_info": {
+          "package_name": "com.aysenurk.akilli_yoklama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003203081229-971mulqgf0km57728c90g756118sbu7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aysenurk.akilli_yoklama",
+            "certificate_hash": "d4a9671cabce26c443871c78088cac7ce806a869"
+          }
+        },
+        {
+          "client_id": "1003203081229-9mtmqma7l22sovb9hp0bit6gstbg2qhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsN4ScEMbZ1O4d3z7Vv3SeKr59fcioAC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003203081229-9mtmqma7l22sovb9hp0bit6gstbg2qhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
